@@ -54,7 +54,8 @@ sns.scatterplot(data=data, x='Annual Income (k$)', y='Spending Score (1-100)', h
 ## Output:
 <img width="1479" height="199" alt="image" src="https://github.com/user-attachments/assets/618bff20-1122-479d-9ee3-3b5fde6a6c9d" />
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/db795008-4bdb-4a3e-ad7a-f3ca28a24226" />
-![Uploading image.png…]()
+<img width="850" height="448" alt="download" src="https://github.com/user-attachments/assets/1d677749-c34d-4aca-939f-a02cea49713e" />
+
 
 
 
